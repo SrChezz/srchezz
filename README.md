@@ -1,7 +1,7 @@
 ### Hi, my name is Cesar 👋
 🔭 I am a sofware engineer<br>🤝 I am currently working as a web developer
 <br>
-💡 Currently, I amd studying System Engineering at Continental University
+💡I am studying System Engineering at Continental University
 
 # 💻 Tech Stack:
 <p align="left"> 
