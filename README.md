@@ -1,4 +1,4 @@
-### Hi, there is a passionate frontend developer 👋
+### Hi, my name is Cesar 👋
 🔭 I am a sofware engineer<br>🤝 I am currently working as a web developer
 <br>
 💡 Currently, I amd studying System Engineering at Continental University
